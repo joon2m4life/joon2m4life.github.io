@@ -9,13 +9,11 @@ cover-img: /assets/img/research2.jpg
 
 ## About me
 
-**Jihoon Lim** is a **_senior researcher_** and **_Robotics Control Engineer_** of [Gluxkind Technologies](https://gluxkind.com). He designs Optimal and Robust Control Systems.
+**Jihoon Lim** is a **_senior researcher_** and **_Robotics Control Engineer_** of [Gluxkind Technologies](https://gluxkind.com). He designs Optimal and Robust Control Systems in differential-drive mobile robots.
 
-He has a broad technical background in diesel engine control, selective catalytic reduction systems, differential-drive mobile robots, H infinity control, linear parameter varying control and nonlinear control design. 
+He has a broad technical background in control system designs such as diesel engines, selective catalytic reduction systems, differential-drive mobile robots. His research interest is related to H infinity control, linear parameter varying control and nonlinear control design. 
 
-He is carrying out various activities including paper reviews for research journals, and contributions to open source projects.  
-
-He loves to bring new ideas and share it with collaborators.;
+He loves to bring new ideas and share it with collaborators.
 
 ## Contact
 
