@@ -2,7 +2,7 @@
 layout: page
 title: Robotics Control Engineer
 subtitle: Gluxkind Technologies
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/JihoonLim2.jpg
 ---
 
 <br/>
